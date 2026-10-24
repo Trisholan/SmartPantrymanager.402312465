@@ -29,4 +29,4 @@ SQLite stores pantry ingredients on the device, allowing the app to retain pantr
 Recipe matching checks ingredient names and a simplified quantity threshold. Recipe-specific quantities and unit conversions are not fully modelled. The expiry-reminder setting is a display preference and does not schedule notifications.
 
 ## Repository
-GitHub: https://github.com/Trisholan/SmartPantryManager.new
+GitHub:https://github.com/Trisholan/SmartPantrymanager.402312465
